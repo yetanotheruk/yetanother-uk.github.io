@@ -1,6 +1,3 @@
----
----
-
 # Yet Another
 This is the Homepage for **Yet Another**. A collection of useful libraries that are available for free, open source and without warranty.
 
